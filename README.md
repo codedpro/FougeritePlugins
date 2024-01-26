@@ -1,6 +1,6 @@
 # FougeritePlugins
 
-![Rust Legacy Logo](link/to/rust-legacy-logo.png)
+![Rust Legacy Logo](https://th.bing.com/th/id/R.c6ad80c4c6207c051200bd419f5d5415?rik=kSQcvD16uYHGhg&pid=ImgRaw&r=0)
 
 Collection of Fougerite plugins designed for the Rust Legacy game by MadGames Company. These plugins enhance gameplay, introduce new features, and provide essential functionalities for server administration.
 
@@ -18,7 +18,6 @@ Collection of Fougerite plugins designed for the Rust Legacy game by MadGames Co
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -52,11 +51,11 @@ PlayerStatistics tracks various player stats, including kills, deaths, playtime,
 
 ## Installation
 
-To install these plugins, follow the instructions provided in each plugin's respective folder.
+Just Put them In PyPlugins if they are python script or put them in Modules folder if they are C# scripts
 
 ## Usage
 
-Refer to the specific documentation for each plugin to understand how to use and configure them effectively.
+You Can see each Plugins commands to learn how to use them in source code
 
 ## Configuration
 
@@ -65,7 +64,3 @@ Each plugin comes with its own configuration files. Refer to the individual plug
 ## Contributing
 
 Feel free to contribute by opening issues, providing feedback, or submitting pull requests. We welcome community input to improve and expand the functionality of these plugins.
-
-## License
-
-These Fougerite plugins are released under the [LICENSE NAME] license. See the [LICENSE](LICENSE) file for more details.
