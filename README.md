@@ -1,2 +1,2 @@
 # FougeritePlugins
-FougeritePlugins For Rust Legacy Game
+FougeritePlugins For Rust Legacy Game For MadGames Company
