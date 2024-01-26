@@ -1,6 +1,6 @@
 # FougeritePlugins
 
-![Rust Legacy Logo]([https://th.bing.com/th/id/R.c6ad80c4c6207c051200bd419f5d5415?rik=kSQcvD16uYHGhg&pid=ImgRaw&r=0](https://radshitegaming.files.wordpress.com/2018/01/483072797_preview_kl-e1516656113426.jpg))
+![Rust Legacy Logo](https://radshitegaming.files.wordpress.com/2018/01/483072797_preview_kl-e1516656113426.jpg)
 
 Collection of Fougerite plugins designed for the Rust Legacy game by MadGames Company. These plugins enhance gameplay, introduce new features, and provide essential functionalities for server administration.
 
